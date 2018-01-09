@@ -1,3 +1,3 @@
 # hello-world
-Primeiro 
-Helloo! my name is Andre. I am excited to use Github!
+Hello! 
+My name is Andre. I am excited to use Github!
